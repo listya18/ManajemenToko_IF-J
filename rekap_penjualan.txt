@@ -1,0 +1,7 @@
+=== REKAP PENJUALAN PER KATEGORI PER BULAN ===
+       Kategori      Bln-1      Bln-2      Bln-3      Bln-4      Bln-5      Bln-6      Bln-7      Bln-8      Bln-9      Bln-10      Bln-11      Bln-12
+        Makanan       40000           0           0           0           0           0           0           0           0           0           0           0
+        Minuman           0           0           0           0           0           0           0           0           0           0           0           0
+     Elektronik           0           0           0           0           0           0           0           0           0           0           0           0
+        Pakaian           0           0           0           0           0           0           0           0           0           0           0           0
+        Lainnya           0           0           0           0           0           0           0           0           0           0           0           0
