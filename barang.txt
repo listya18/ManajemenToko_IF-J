@@ -1,0 +1,11 @@
+10
+2|Mie Goreng Instan|Makanan|3000|451
+3|Air Mineral 600ml|Minuman|4000|150
+6|Sabun Mandi|Lainnya|6000|100
+4|Kopi Susu Kaleng|Minuman|8500|80
+8|Snack Chitato|Makanan|12000|60
+9|Telur Omega |Makanan|20000|28
+5|Lampu LED 10W|Elektronik|35000|30
+7|Kaos Polos|Pakaian|50000|40
+1|Beras Premium 5kg|Makanan|80000|88
+2|Susu UHT |Minuman|5000|30
